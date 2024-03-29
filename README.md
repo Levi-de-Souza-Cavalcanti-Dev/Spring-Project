@@ -17,7 +17,7 @@ A Java application that demonstrates the use of Spring Boot, Hibernate, JPA, Mav
 * SOLID principles
 * Refactoring
 * Unit testing
-* 
+  
 ### 3-Tier Architecture:
 
 * Presentation layer
